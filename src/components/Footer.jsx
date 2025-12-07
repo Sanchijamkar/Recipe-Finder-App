@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
    <footer>
-    <p>Created By <a href="https://ankitjha.vercel.app" target='_blank'>Ankit Jha</a></p>
+    <p>Created By <a href="https://sanchi.vercel.app" target='_blank'>Sanchi Jamkar</a></p>
    </footer>
   )
 }
